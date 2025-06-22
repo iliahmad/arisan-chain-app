@@ -7,3 +7,4 @@ Desain frontend sederhana make Next.js + Tailwind + Phantom Wallet connect.
 ```bash
 npm install
 npm run dev
+# arisan-chain-app
